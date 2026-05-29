@@ -1,0 +1,2 @@
+Voter u1 has voted
+Voter u2 has voted
